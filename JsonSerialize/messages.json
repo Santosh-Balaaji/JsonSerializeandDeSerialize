@@ -1,0 +1,26 @@
+{
+  "appTitle": {
+    "id": "app.title",
+    "desc": "Primary title of the App, displayed in App Bar",
+    "defaultMessage": "Booking Setup WebApp"
+  },
+  "discardItinerary": {
+    "id": "discard.itinerary",
+    "defaultMessage": "Discard Itinerary"
+  },
+  "notificationTravellerAdded": {
+    "id": "notification.traveller.added",
+    "desc": "The notification that indicates the number of travellers added",
+    "defaultMessage": "{count, plural, =0 {no Travellers} one {# traveller} other {# travellers} } added"
+  },
+  "notificationTravellerRemoved": {
+    "id": "notification.traveller.removed",
+    "desc": "The notification that indicates the number of travellers removed",
+    "defaultMessage": "{count, plural, =0 {no travellers} one {# traveller} other {# travellers} } removed"
+  },
+  "notificationCriteriaRemoved": {
+    "id": "notification.criteria.removed",
+    "desc": "The notification that indicates a criteria segments was removed",
+    "defaultMessage": "{type} removed"
+  }
+}

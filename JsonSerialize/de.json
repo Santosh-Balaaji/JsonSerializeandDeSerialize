@@ -1,0 +1,7 @@
+{
+  "app.title": "Buchung Web-Applikation",
+  "discard.itinerary": "Reiseplan verwerfen",
+  "notification.traveller.added": "{count, plural, =0 {Keine Reisende sind} one {# Reisende ist} other {# Reisende sind}} hinzugefügt",
+  "notification.traveller.removed": "{count, plural, =0 {Keine Reisende sind} one {# Reisende ist} other {# Reisende sind}} entfernt",
+  "notification.criteria.removed": "{type} ist entfernt"
+}

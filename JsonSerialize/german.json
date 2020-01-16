@@ -1,0 +1,22 @@
+{
+  
+    "Title": "notificationCriteriaRemoved",
+    "Messages": "{type} ist entfernt",
+    "Description": "The notification that indicates a criteria segments was removed",
+    "Title": "appTitle",
+    "Messages": "Buchung Web-Applikation",
+    "Description": "Primary title of the App, displayed in App Bar",
+    "Title": "discardItinerary",
+    "Messages": "Reiseplan verwerfen",
+    "Description": "",
+    "Title": "notificationTravellerAdded",
+    "Messages": "{count, plural, =0 {Keine Reisende sind} one {# Reisende ist} other {# Reisende sind}} hinzugef�gt",
+    "Description": "The notification that indicates the number of travellers added",
+    "Title": "notificationTravellerRemoved",
+    "Messages": "{count, plural, =0 {Keine Reisende sind} one {# Reisende ist} other {# Reisende sind}} entfernt",
+    "Description": "The notification that indicates the number of travellers removed",
+    "Title": "notificationCriteriaRemoved",
+    "Messages": "{type} ist entfernt",
+    "Description": "The notification that indicates a criteria segments was removed",
+  
+}
